@@ -132,13 +132,13 @@ function Main({loading}: MainProps) {
     if(Pbrands !== null && brands.length === 0) {
       Pbrands.split("↕").forEach((item) => {
         addFilters('brands', item);
-        setBrands(brands.concat(item))
+        setBrands(oldArray => [...oldArray, item])
       })
     }
     if(Pcategory !== null && category.length === 0) {
       Pcategory.split("↕").forEach((item) => {
         addFilters("category", item);
-        setCategory(category.concat(item))
+        setCategory(oldArray => [...oldArray, item])
       })
     }
     if(Pdisplay !== null) {
