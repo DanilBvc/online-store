@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/online-store/static/css/main.f094792d.css",
-    "main.js": "/online-store/static/js/main.a5d9aec9.js",
+    "main.js": "/online-store/static/js/main.e67eae72.js",
     "static/js/787.a92fe09e.chunk.js": "/online-store/static/js/787.a92fe09e.chunk.js",
     "static/media/maestro.png": "/online-store/static/media/maestro.09fe12b97f05f4b3dcc2.png",
     "static/media/raleway-v28-latin_cyrillic-600.ttf": "/online-store/static/media/raleway-v28-latin_cyrillic-600.607e009a6049559fd1bb.ttf",
@@ -49,11 +49,11 @@
     "static/media/placeholder-images.webp": "/online-store/static/media/placeholder-images.9d0dca2132a04293dde4.webp",
     "index.html": "/online-store/index.html",
     "main.f094792d.css.map": "/online-store/static/css/main.f094792d.css.map",
-    "main.a5d9aec9.js.map": "/online-store/static/js/main.a5d9aec9.js.map",
+    "main.e67eae72.js.map": "/online-store/static/js/main.e67eae72.js.map",
     "787.a92fe09e.chunk.js.map": "/online-store/static/js/787.a92fe09e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f094792d.css",
-    "static/js/main.a5d9aec9.js"
+    "static/js/main.e67eae72.js"
   ]
 }
